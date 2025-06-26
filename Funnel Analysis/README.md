@@ -51,7 +51,7 @@ The dataset covers participant registrations on **November 8, 2023**, and tracks
 | **Employed**      | 3.20 days         | 2.00 days | 4.33 days |  
 
 ### 📊 Dashboard 
-![image](https://github.com/user-attachments/assets/153699d9-0603-4377-a271-b2358531efe0)
+![dashboard](https://github.com/user-attachments/assets/22ca9848-9544-491f-b7e7-8d3f1729e7b1)
 
 - 30% of the employed who registered for the workshop end up paying the fees.
 - The conversion rate of employed (30%) is higher than that of academic participants (20%)
