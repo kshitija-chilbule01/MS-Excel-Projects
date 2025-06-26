@@ -230,5 +230,10 @@ This analysis compares the **old and new plans** for **Zingg Cold Drink**, highl
 ![dashboard](https://github.com/user-attachments/assets/7c16461d-4778-4d7e-85da-03a21aa6344a)
 
 ## ⭐ Final Insights
-- In a new plan, the forecast is that the sales quantity will be 24.87% higher than the old plan forecast.
+- In the new plan, the forecast indicates that the sales quantity will be 24.87% higher than the forecast in the old plan.
 - Cost-Benefit analysis of the new plan shows that it will generate an incremental profit of Rs. 19,278,000
+
+## 📬Contact
+**Author:** Kshitija Chilbule
+
+**For inquiries, email:** kshitijachilbule2@gmail.com
