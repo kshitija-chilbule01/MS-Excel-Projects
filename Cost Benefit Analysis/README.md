@@ -227,7 +227,7 @@ This analysis compares the **old and new plans** for **Zingg Cold Drink**, highl
 
 ## ⭐ Dashboard
 
-![image](https://github.com/user-attachments/assets/e294aa68-25d8-41bf-a1b5-d108b3fd1409)
+![dashboard](https://github.com/user-attachments/assets/7c16461d-4778-4d7e-85da-03a21aa6344a)
 
 ## ⭐ Final Insights
 - In a new plan, the forecast is that the sales quantity will be 24.87% higher than the old plan forecast.
