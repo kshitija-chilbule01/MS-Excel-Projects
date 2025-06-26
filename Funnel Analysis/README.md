@@ -55,7 +55,7 @@ The dataset covers participant registrations on **November 8, 2023**, and tracks
 
 - 30% of the employed who registered for the workshop end up paying the fees.
 - The conversion rate of employed (30%) is higher than that of academic participants (20%)
-- The average time spent by academic and employed participant is almost same.
+- The average time spent by academic and employed participants is almost the same.
 
 ## 📬Contact
 **Author:** Kshitija Chilbule
