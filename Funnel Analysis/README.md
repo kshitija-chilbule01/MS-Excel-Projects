@@ -51,7 +51,8 @@ The dataset covers participant registrations on **November 8, 2023**, and tracks
 | **Employed**      | 3.20 days         | 2.00 days | 4.33 days |  
 
 ### 📊 Dashboard 
-![dashboard](https://github.com/user-attachments/assets/22ca9848-9544-491f-b7e7-8d3f1729e7b1)
+
+<img width="1140" height="661" alt="Funnel Analysis dashboard" src="https://github.com/user-attachments/assets/82880dd4-3c47-45d6-bd14-5f628bd10ee9" />
 
 - 30% of the employed who registered for the workshop end up paying the fees.
 - The conversion rate of employed (30%) is higher than that of academic participants (20%)
